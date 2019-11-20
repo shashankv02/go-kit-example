@@ -119,5 +119,6 @@ $ docker run  -p 9090:9090 -v /tmp/prom/config.yml:/etc/prometheus/prometheus.ym
 Go to prometheus server and see the metrics!
 
 
-
-
+## TODO
+# Rate limiting
+# Distributed tracing
